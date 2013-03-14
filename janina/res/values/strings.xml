@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JaninaActivity!</string>
+    <string name="app_name">Camera Application</string>
+    <string name="ref">your total is 0</string>
+    <string name="p">Add one</string>
+    <string name="p1">Subtract one</string>
+    <string name="hint">Type a command</string>
+    <string name="button">Try Command</string>
+    <string name="tv">Invalid</string>
+    <string name="tg">ToggleButton</string>
+    <string name="tv1">Email Address(es)</string>
+    <string name="tv2">Hateful intro</string>
+    <string name="tv3">Persons name</string>
+    <string name="tv4">Stupid things that person does</string>
+    <string name="tv5">what you want this person to do</string>
+    <string name="tv6">Hateful Outro</string>
+    <string name="emailbutton">Send Email</string>
+    <string name="eh1">kola</string>
+    <string name="eh2">komola</string>
+    <string name="eh3">apple</string>
+    <string name="eh4">angur</string>
+    <string name="eh5">dalim</string>
+    <string name="eh6">lichu</string>
+    <string name="bSetWall">Set Wallpaper</string>
+    <string name="startA">Start Activity</string>
+    <string name="startAFR">Start Activity For Result</string>
+    <string name="tview">text view</string>
+    <string name="matha">matha kha</string>
+    <string name="crazy">Crazy</string>
+    <string name="superS">super Sexy</string>
+    <string name="both">Both</string>
+    <string name="tvsu1">Text view</string>
+    <string name="tvsu2">answer</string>
+    <string name="ret">Return</string>
+    <string name="riya">Riyas</string>
+    <string name="aboutUs">hi! i am riya, having lots of trouble learning android, as it is a very huge laguage! bt, at the same time , i am enjoying it to my heart;s content! so, thanks to travis, making a very cool tutorial :)</string>
+    <string name="add">Add one</string>
+    <string name="sub">Subtract one</string>
+    <string name="tvdisplay">Your total is 0</string>
+    <string name="handle">Handle</string>
+    <string name="slidingB2">Handle</string>
+    <string name="slidingB1">Handle</string>
+    <string name="slidingB3">Handle</string>
+    <string name="slidingB4">Handle</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="bgo">GO</string>
+    <string name="bback">Go Back a Page</string>
+    <string name="bhistory">Clear History</string>
+    <string name="bforward">Forward a Page</string>
+    <string name="brefresh">Refresh Page</string>
+    <string name="name">Name</string>
+    <string name="hotness">Hotness scale 1 to 10</string>
+    <string name="update">Update Sqllite database</string>
+    <string name="view">View</string>
+    <string name="getinfo">Get Info From DB</string>
+    <string name="names">Names</string>
+    <string name="hotty">Hotness</string>
+    <string name="tvhttp">Loading Data</string>
+
+</resources>
